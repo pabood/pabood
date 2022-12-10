@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pabood
 - 👀 I’m interested in JADAM Natural Korean farming, plant science and farm automation and data collection
 - 🌱 I’m currently learning plant science and python
-- 💞️ I’m looking to collaborate on specialty crop market opportunities
+- 💞️ I’m looking to collaborate on farm automation opportunities
 - 📫 How to reach me ...
 
 <!---
